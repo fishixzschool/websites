@@ -37,4 +37,4 @@ Este projeto está sob a licença MIT. Sinta-se livre para estudar, modificar e 
 
 ---
 
-Feito com ❤️ por [Edmundo](https://github.com/fishixzschool)
+Feito com ❤️ por [! Edy](https://github.com/fishixzschool)
