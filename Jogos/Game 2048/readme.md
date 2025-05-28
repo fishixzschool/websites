@@ -16,6 +16,11 @@ Um jogo clássico e viciante de **2048** recriado com **HTML, CSS e JavaScript p
 - ✅ Game Over e reinício automático
 - ✅ Responsivo (funciona em PC e celular)
 
+## 📸 Preview
+
+![Game 2048 Preview](img/gameinicial.png)
+![Game 2048 Preview](img/game.png)
+
 ## 🌐 Teste agora
 
 👉 [Clique aqui para jogar online](https://fishixzschool.github.io/websites/Jogos/Game%202048/)
