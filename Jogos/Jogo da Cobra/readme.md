@@ -17,8 +17,8 @@ Este é um simples jogo da cobrinha (Snake) desenvolvido com **HTML, CSS e JavaS
 
 ## 📸 Preview
 
-![Snake Game Preview](gameabertura.png)
-![Snake Game Preview](game.png)
+![Snake Game Preview](img/gameabertura.png)
+![Snake Game Preview](img/game.png)
 
 ## 🛠 Tecnologias
 
