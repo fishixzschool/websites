@@ -18,8 +18,8 @@ Um jogo clássico e viciante de **2048** recriado com **HTML, CSS e JavaScript p
 
 ## 📸 Preview
 
-![Game 2048 Preview](img/gameinicial.png)
-![Game 2048 Preview](img/game.png)
+![Game 2048 Preview](img/gameinicial.jpg)
+![Game 2048 Preview](img/game.jpg)
 
 ## 🌐 Teste agora
 
