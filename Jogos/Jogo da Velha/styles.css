@@ -1,0 +1,33 @@
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(135deg, #6366f1, #8b5cf6);
+            min-height: 100vh;
+        }
+        .game-cell {
+            transition: all 0.3s ease;
+        }
+        .game-cell:hover:not(.filled) {
+            background-color: rgba(255, 255, 255, 0.2);
+        }
+        .filled {
+            pointer-events: none;
+        }
+        .win-cell {
+            animation: pulse 1s infinite;
+        }
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+            100% { transform: scale(1); }
+        }
+        .btn {
+            transition: all 0.3s ease;
+        }
+        .btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+        }
+        .modal {
+            backdrop-filter: blur(5px);
+        }
+    
