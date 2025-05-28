@@ -20,6 +20,10 @@ Este é um simples jogo da cobrinha (Snake) desenvolvido com **HTML, CSS e JavaS
 ![Snake Game Preview](img/gameabertura.png)
 ![Snake Game Preview](img/game.png)
 
+## 🌐 Teste agora
+
+👉 [Clique aqui para jogar online](https://fishixzschool.github.io/websites/Jogos/Jogo%20da%20Cobra/)
+
 ## 🛠 Tecnologias
 
 - HTML
