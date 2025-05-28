@@ -15,6 +15,12 @@ Um jogo clássico do **Jogo da Velha** feito com HTML, CSS e JavaScript. Você p
 - ✅ Reinício rápido da partida
 - ✅ IA com lógica para dificultar a vitória
 
+## 📸 Preview
+
+![Velha Game Preview](img/gameinicial.png)
+![Velha Game Preview](img/gameescolha.png)
+![Velha Game Preview](img/gamerolando.png)
+
 ## 🌐 Teste agora
 
 👉 [Clique aqui para jogar online](https://fishixzschool.github.io/websites/Jogos/Jogo%20da%20Velha/)
